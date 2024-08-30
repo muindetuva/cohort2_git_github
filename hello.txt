@@ -19,3 +19,5 @@ Add feature for sending discord messages
 Add feature for sending twitter messages
 
 Add feature for receiving emails
+
+Add feature for receiving discord messages
