@@ -1,4 +1,5 @@
 import whatsapp_api_key
+import email_api_key
 
 Hello World
 
@@ -8,3 +9,6 @@ Hello Cohort 2
 
 
 communicate with whatsapp using api_key=whatsapp_api_key
+
+
+communicate with email using api_key=email_api_key
