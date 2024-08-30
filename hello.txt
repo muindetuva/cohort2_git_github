@@ -15,5 +15,3 @@ communicate with email using api_key=email_api_key
 
 
 Add feature for sending discord messages
-
-Add feature for sending sms
